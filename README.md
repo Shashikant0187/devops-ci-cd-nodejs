@@ -60,19 +60,22 @@ Developer → GitHub → GitHub Actions → Docker → Docker Hub → Kubernetes
 * Pod health & availability
 * Request/response metrics
 
-📸 *(Add Grafana Dashboard Screenshot Here)*
+📸 <img width="1919" height="1021" alt="Grafana" src="https://github.com/user-attachments/assets/a399dec7-e0e3-4a0d-9dd7-3a79ae6a6cb1" />
+
 
 ---
 
 ## 🌐 Application Demo
 
-📸 *(Add Application UI Screenshot Here)*
+📸 <img width="1914" height="1102" alt="Screenshot 2026-03-29 201750" src="https://github.com/user-attachments/assets/b8e3158d-1707-427e-bc46-bace8dbb1a37" />
+
 
 ---
 
 ## 🔗 CI/CD Pipeline
 
-📸 *(Add GitHub Actions Workflow Screenshot Here)*
+📸 <img width="1914" height="1021" alt="CICD pipeline ⚙" src="https://github.com/user-attachments/assets/1d66ea07-5e2d-4c01-af14-0bd6114bb1e1" />
+
 
 ---
 
